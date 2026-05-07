@@ -9,7 +9,7 @@ hyg: constructed hypergraph
 
 Before training the model, each file is unzipped to get the corresponding .pickle file
 
-The following data files are available from xxx.
+The following data files are available from https://github.com/Winsyin/MRHRL.
 
 1. CMA: the raw data
 2. 5fold_CV: the training set, validation set and the test set in the 5-fold cross validation experiment
